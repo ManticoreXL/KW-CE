@@ -1,0 +1,178 @@
+C:/Users/user/Desktop/verilog/project_topmodule/Top.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/cla4.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/cla4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla4
+
+Top level modules:
+	cla4
+
+} {} {}} C:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_FactorialCoreTop
+
+Top level modules:
+	tb_FactorialCoreTop
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/cla32.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/cla32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla32
+
+Top level modules:
+	cla32
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/cla6.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/cla6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla6
+
+Top level modules:
+	cla6
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/fa.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/fa.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_Top
+
+Top level modules:
+	tb_Top
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/ha.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/ha.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ha
+
+Top level modules:
+	ha
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/BUS.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/BUS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BUS
+
+Top level modules:
+	BUS
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module address_decoder
+
+Top level modules:
+	address_decoder
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/gates.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/gates.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module _buf
+-- Compiling module _inv
+-- Compiling module _inv_4bits
+-- Compiling module _inv_32bits
+-- Compiling module _and2
+-- Compiling module _and3
+-- Compiling module _and4
+-- Compiling module _and5
+-- Compiling module _and2_4bits
+-- Compiling module _and2_32bits
+-- Compiling module _nand2
+-- Compiling module _or2
+-- Compiling module _or3
+-- Compiling module _or4
+-- Compiling module _or5
+-- Compiling module _or2_4bits
+-- Compiling module _or2_32bits
+-- Compiling module _nor2
+-- Compiling module _nor3
+-- Compiling module _nor4
+-- Compiling module _xor2
+-- Compiling module _xor2_4bits
+-- Compiling module _xor2_32bits
+-- Compiling module _xnor
+-- Compiling module _xnor2_4bits
+-- Compiling module _xnor2_32bits
+
+Top level modules:
+	_buf
+	_inv_4bits
+	_inv_32bits
+	_and3
+	_and4
+	_and5
+	_and2_4bits
+	_and2_32bits
+	_nand2
+	_or3
+	_or4
+	_or5
+	_or2_4bits
+	_or2_32bits
+	_nor2
+	_nor3
+	_nor4
+	_xor2_32bits
+	_xnor
+	_xnor2_32bits
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux3_64bit
+
+Top level modules:
+	mux3_64bit
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/clb4.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/clb4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clb4
+
+Top level modules:
+	clb4
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fa_v2
+
+Top level modules:
+	fa_v2
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FactoCore
+
+Top level modules:
+	FactoCore
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/multiplier.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/RAM.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/RAM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/arbiter.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/arbiter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+
+} {} {}} C:/Users/user/Desktop/verilog/project_topmodule/cla64.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/verilog/project_topmodule/cla64.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla64
+
+Top level modules:
+	cla64
+
+} {} {}}

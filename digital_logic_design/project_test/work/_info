@@ -1,0 +1,966 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+v_and2
+Z0 !s110 1701851059
+!i10b 1
+!s100 Lo@N^HiF?2aY<b;67@jXV1
+IDZ8i1c^5lF^C;_5B00]Em0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/verilog/project_test
+Z3 w1698904942
+Z4 8C:/Users/user/Desktop/verilog/project_topmodule/gates.v
+Z5 FC:/Users/user/Desktop/verilog/project_topmodule/gates.v
+L0 41
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1701851059.000000
+Z8 !s107 C:/Users/user/Desktop/verilog/project_topmodule/gates.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/gates.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@_and2
+v_and2_32bits
+R0
+!i10b 1
+!s100 ecYn5[IaU<G`m_D[XFCdA2
+I:7H:Pd^Kb3H6C;9Ac[P7S3
+R1
+R2
+R3
+R4
+R5
+L0 81
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_and2_32bits
+v_and2_4bits
+R0
+!i10b 1
+!s100 KIggQ>k3^28=6Eh_dM^o>2
+IiQ5MK]e;o@>USz4i4f7g02
+R1
+R2
+R3
+R4
+R5
+L0 73
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_and2_4bits
+v_and3
+R0
+!i10b 1
+!s100 mFH2GoEQV643iIbz@<FFm0
+I^AOH7iWDRVDIJ@X5J^l<>1
+R1
+R2
+R3
+R4
+R5
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_and3
+v_and4
+R0
+!i10b 1
+!s100 k@mBe?zd15mnQ:22QLA?h1
+IdQW_EzOjDF04<QcaBdS`51
+R1
+R2
+R3
+R4
+R5
+L0 57
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_and4
+v_and5
+R0
+!i10b 1
+!s100 ?FeTj0>Im[3I?efij?He[1
+Ihb9ci]DPQBIbDkHDbz`Ml1
+R1
+R2
+R3
+R4
+R5
+L0 65
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_and5
+v_buf
+R0
+!i10b 1
+!s100 LbeHOR1:@QPZEe;;YUn?@0
+IIFA=172WKzPhomF8V>5;e2
+R1
+R2
+R3
+R4
+R5
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_buf
+v_inv
+R0
+!i10b 1
+!s100 cMCf3@KFaOW9RiTJ;z5ZF1
+IVJP[?M>2:kDYXVH;j<:Ie2
+R1
+R2
+R3
+R4
+R5
+L0 14
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_inv
+v_inv_32bits
+R0
+!i10b 1
+!s100 hUc;CPn9Ql39F4@?ahh<10
+InJRT1zOX<=JD=@EQkW8^G0
+R1
+R2
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_inv_32bits
+v_inv_4bits
+R0
+!i10b 1
+!s100 A;b[WDP:V>EAK61GoNm2c3
+INOm58Ho0e9zF]_4nY67d`2
+R1
+R2
+R3
+R4
+R5
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_inv_4bits
+v_nand2
+R0
+!i10b 1
+!s100 724fe_eU^>0YdANecETe=2
+IRRWLaQP481R695H2PWUn70
+R1
+R2
+R3
+R4
+R5
+L0 92
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_nand2
+v_nor2
+R0
+!i10b 1
+!s100 1oLIM1ga:bA>eknEnV?6:0
+IRfVDQ6iGQMzfN1]9c>T7J1
+R1
+R2
+R3
+R4
+R5
+L0 154
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_nor2
+v_nor3
+R0
+!i10b 1
+!s100 A4AJ1IIY9KicR5V_ILzhT3
+IXWC]?H16?E:062:3lmjQf3
+R1
+R2
+R3
+R4
+R5
+L0 162
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_nor3
+v_nor4
+R0
+!i10b 1
+!s100 oa0m43i9elI5l8OPHhBG:2
+INfLYkjH?[>ekAS=a>E_:H3
+R1
+R2
+R3
+R4
+R5
+L0 170
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_nor4
+v_or2
+R0
+!i10b 1
+!s100 ]KXTlG@3>8lQeQMS3F]YR2
+I6@Rin9XGFlo?b>QIg579i2
+R1
+R2
+R3
+R4
+R5
+L0 103
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or2
+v_or2_32bits
+R0
+!i10b 1
+!s100 @=N02jZl9d>3]j[_XENSi0
+I2>10^eUITDGKQ7W_=4hWj3
+R1
+R2
+R3
+R4
+R5
+L0 143
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or2_32bits
+v_or2_4bits
+R0
+!i10b 1
+!s100 E6llWkoNUIM7`a<E[o[][1
+Ij[V5e=YD_DibVG^D=VljO1
+R1
+R2
+R3
+R4
+R5
+L0 135
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or2_4bits
+v_or3
+R0
+!i10b 1
+!s100 deNS[T0GOc8O?CEV095^=0
+ILJPo2K=Vh7BNkRnG1oV;f0
+R1
+R2
+R3
+R4
+R5
+L0 111
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or3
+v_or4
+R0
+!i10b 1
+!s100 4gdV4?6KAG@PnO90nH^jz1
+Idn]LR2:LX22XQi[81UkDU3
+R1
+R2
+R3
+R4
+R5
+L0 119
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or4
+v_or5
+R0
+!i10b 1
+!s100 MhenDDQ1Y_7Fa`naRIbi21
+IF^<EzziBJz1X:Sc5B7LlH1
+R1
+R2
+R3
+R4
+R5
+L0 127
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_or5
+v_xnor
+R0
+!i10b 1
+!s100 d?UWTUcJYm_b0>_KkU@][2
+I5O^Y9JIVm=[h<m8GZ:hz<3
+R1
+R2
+R3
+R4
+R5
+L0 227
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xnor
+v_xnor2_32bits
+R0
+!i10b 1
+!s100 @]ORj@>=SdHW4nAQNZ9E_3
+IAAdb]aidB?Nj[VI:0>k8:2
+R1
+R2
+R3
+R4
+R5
+L0 249
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xnor2_32bits
+v_xnor2_4bits
+R0
+!i10b 1
+!s100 9SVWERH][G?M]neg2^NWE1
+Ie3I?bY^M@:2]Kfom9JKR`1
+R1
+R2
+R3
+R4
+R5
+L0 239
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xnor2_4bits
+v_xor2
+R0
+!i10b 1
+!s100 K64<Pe1>gMUU`nj[Pi6UF3
+I:DzBCX>CAYXnk]CkYjVC40
+R1
+R2
+R3
+R4
+R5
+L0 181
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xor2
+v_xor2_32bits
+R0
+!i10b 1
+!s100 1J_SYU_aEm;f`KjXS5o1U2
+I30M_YF1XFXhVGW3e1DG>Q0
+R1
+R2
+R3
+R4
+R5
+L0 209
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xor2_32bits
+v_xor2_4bits
+R0
+!i10b 1
+!s100 Z]>SC<VjWXHZf6nh:g?M_2
+IH8[G5G3B_dn`LK@ERIB:=2
+R1
+R2
+R3
+R4
+R5
+L0 197
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@_xor2_4bits
+vaddress_decoder
+R0
+!i10b 1
+!s100 GY;fVVZ<]_>ig_;4cA]Ed3
+I50OH199O@oR<<[=FNd0Ro1
+R1
+R2
+w1700988272
+8C:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v
+FC:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/address_decoder.v|
+!i113 1
+R10
+R11
+varbiter
+R0
+!i10b 1
+!s100 U^nz7XRJMhl><F08DL^j10
+IG_A7iL[hIGjF`[7UI^e]b0
+R1
+R2
+w1700800125
+8C:/Users/user/Desktop/verilog/project_topmodule/arbiter.v
+FC:/Users/user/Desktop/verilog/project_topmodule/arbiter.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/arbiter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/arbiter.v|
+!i113 1
+R10
+R11
+vBUS
+R0
+!i10b 1
+!s100 V>;VAA;O>1k?R8RYR]Mf^3
+Iz3h6HjUPT92j?ieACFU^12
+R1
+R2
+w1701169506
+8C:/Users/user/Desktop/verilog/project_topmodule/BUS.v
+FC:/Users/user/Desktop/verilog/project_topmodule/BUS.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/BUS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/BUS.v|
+!i113 1
+R10
+R11
+n@b@u@s
+vcla32
+R0
+!i10b 1
+!s100 j4EhZM0CSj0TW=>dae[6z1
+I5zOok:Q9B9[=YJgjTh_:n0
+R1
+R2
+w1696461538
+8C:/Users/user/Desktop/verilog/project_topmodule/cla32.v
+FC:/Users/user/Desktop/verilog/project_topmodule/cla32.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/cla32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/cla32.v|
+!i113 1
+R10
+R11
+vcla4
+R0
+!i10b 1
+!s100 _30C:HH0[no68cR5]=95D2
+IXK7Qbzgo9_YEUkPc71R6h1
+R1
+R2
+w1696365542
+8C:/Users/user/Desktop/verilog/project_topmodule/cla4.v
+FC:/Users/user/Desktop/verilog/project_topmodule/cla4.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/cla4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/cla4.v|
+!i113 1
+R10
+R11
+vcla6
+R0
+!i10b 1
+!s100 kdYULR@OdX`B5KF2NJfYI2
+I_`UnYPART@ZAA1WaQ`g942
+R1
+R2
+w1700574648
+8C:/Users/user/Desktop/verilog/project_topmodule/cla6.v
+FC:/Users/user/Desktop/verilog/project_topmodule/cla6.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/cla6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/cla6.v|
+!i113 1
+R10
+R11
+vcla64
+R0
+!i10b 1
+!s100 TTnkP`;e<mS892Tf19X3Y3
+I`ARYiDURGLi8?[X4F3>:62
+R1
+R2
+w1700476367
+8C:/Users/user/Desktop/verilog/project_topmodule/cla64.v
+FC:/Users/user/Desktop/verilog/project_topmodule/cla64.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/cla64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/cla64.v|
+!i113 1
+R10
+R11
+vclb4
+R0
+!i10b 1
+!s100 W7bGj9e1Gj]m_601T<D3`2
+ImNFdfl0@NIH4oIL_1W_JR0
+R1
+R2
+w1696461637
+8C:/Users/user/Desktop/verilog/project_topmodule/clb4.v
+FC:/Users/user/Desktop/verilog/project_topmodule/clb4.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/clb4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/clb4.v|
+!i113 1
+R10
+R11
+vfa
+R0
+!i10b 1
+!s100 zL[A8Kj:kS<mj02JCIl9d0
+Iah46;ZjbM4fj<Be3bPjWS0
+R1
+R2
+w1695353084
+8C:/Users/user/Desktop/verilog/project_topmodule/fa.v
+FC:/Users/user/Desktop/verilog/project_topmodule/fa.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/fa.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/fa.v|
+!i113 1
+R10
+R11
+vfa_v2
+R0
+!i10b 1
+!s100 ?3nY?1k8Z@=jB=<DZUW?b3
+Ii<2Hjg<OYKgd3bQ7@[_gR0
+R1
+R2
+w1695670518
+8C:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v
+FC:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/fa_v2.v|
+!i113 1
+R10
+R11
+vFactoCore
+R0
+!i10b 1
+!s100 HNLE12a`TZ9Nei]UVHK2o3
+I7<[mUb;9dh@FN6VRYI?kf1
+R1
+R2
+w1701844638
+8C:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v
+FC:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/FactoCore.v|
+!i113 1
+R10
+R11
+n@facto@core
+vha
+Z12 !s110 1701851060
+!i10b 1
+!s100 E3AeX4gJMEjX;`hbG_@e31
+I68::R[>CnSXmOJXE?]=gK0
+R1
+R2
+w1695353061
+8C:/Users/user/Desktop/verilog/project_topmodule/ha.v
+FC:/Users/user/Desktop/verilog/project_topmodule/ha.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z13 !s108 1701851060.000000
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/ha.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/ha.v|
+!i113 1
+R10
+R11
+vmultiplier
+R12
+!i10b 1
+!s100 oD0n=YH>Vn>7dRB;CmTQ?2
+IP5e[0NAV4O_CWRCV<XmzD1
+R1
+R2
+w1700648311
+8C:/Users/user/Desktop/verilog/project_topmodule/multiplier.v
+FC:/Users/user/Desktop/verilog/project_topmodule/multiplier.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/multiplier.v|
+!i113 1
+R10
+R11
+vmux3_64bit
+R12
+!i10b 1
+!s100 <b2G31CGMO_Q]idJ9SgOj3
+Ig=fS@fXljDJWI<QzKP7]01
+R1
+R2
+w1701170026
+8C:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v
+FC:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/mux3_64bit.v|
+!i113 1
+R10
+R11
+vRAM
+R12
+!i10b 1
+!s100 aJLz63A[7PNMLHL0e5hTb2
+ISdaa11hO59?CkHM9Bb@b@3
+R1
+R2
+w1700796651
+8C:/Users/user/Desktop/verilog/project_topmodule/RAM.v
+FC:/Users/user/Desktop/verilog/project_topmodule/RAM.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/RAM.v|
+!i113 1
+R10
+R11
+n@r@a@m
+vtb_FactorialCoreTop
+R12
+!i10b 1
+!s100 @8Ec01m?F4_BK]9e:]RDZ1
+I^?^2gES_X@^dg[SBzJUJQ2
+R1
+R2
+w1701762213
+8C:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v
+FC:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v
+L0 2
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_test/tb_FactorialCoreTop.v|
+!i113 1
+R10
+R11
+ntb_@factorial@core@top
+vtb_Top
+R12
+!i10b 1
+!s100 Sb4dTIPRIi2@QiJ=_>^6O3
+IDADIKC:9dXh@CTRBAGOcR2
+R1
+R2
+w1701849127
+8C:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v
+FC:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/tb_Top.v|
+!i113 1
+R10
+R11
+ntb_@top
+vTop
+R0
+!i10b 1
+!s100 9UAm@HBj:YJSTX_DeNlf;2
+IcR55I<NcmSfClK9KlN9i83
+R1
+R2
+w1701787370
+8C:/Users/user/Desktop/verilog/project_topmodule/Top.v
+FC:/Users/user/Desktop/verilog/project_topmodule/Top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/verilog/project_topmodule/Top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/verilog/project_topmodule/Top.v|
+!i113 1
+R10
+R11
+n@top
