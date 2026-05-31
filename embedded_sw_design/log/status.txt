@@ -1,0 +1,377 @@
+[DAM STATUS]
+Time: 00:06:35
+WaterHeight: 922.83 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 165.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 49.00 kWh
+TotalOutflow: 3880800.00 m^3
+AlarmCount: 372
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:06:45
+WaterHeight: 943.10 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 50.25 kWh
+TotalOutflow: 3979800.00 m^3
+AlarmCount: 382
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:06:55
+WaterHeight: 963.20 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 473.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 51.50 kWh
+TotalOutflow: 4078800.00 m^3
+AlarmCount: 392
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:05
+WaterHeight: 983.77 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 265.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 52.75 kWh
+TotalOutflow: 4177800.00 m^3
+AlarmCount: 402
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:15
+WaterHeight: 1004.13 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 54.00 kWh
+TotalOutflow: 4276800.00 m^3
+AlarmCount: 412
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:25
+WaterHeight: 1024.23 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 2333.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 55.25 kWh
+TotalOutflow: 4375800.00 m^3
+AlarmCount: 422
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:33
+WaterHeight: 1046.67 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 56.50 kWh
+TotalOutflow: 4474800.00 m^3
+AlarmCount: 432
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:43
+WaterHeight: 1066.77 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 180.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 57.75 kWh
+TotalOutflow: 4573800.00 m^3
+AlarmCount: 442
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:07:53
+WaterHeight: 1087.05 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 370.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 59.00 kWh
+TotalOutflow: 4672800.00 m^3
+AlarmCount: 452
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:08:03
+WaterHeight: 1107.52 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 60.25 kWh
+TotalOutflow: 4771800.00 m^3
+AlarmCount: 462
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:08:13
+WaterHeight: 1127.62 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 1402.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 61.50 kWh
+TotalOutflow: 4870800.00 m^3
+AlarmCount: 472
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:08:23
+WaterHeight: 1149.12 m
+InflowFixed: 30000.00 m^3/s
+InflowVariable: 2480.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 62.75 kWh
+TotalOutflow: 4969800.00 m^3
+AlarmCount: 482
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:00
+WaterHeight: 80.40 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 30 %
+OutflowRate: 3300.00 m^3/s
+PowerOutput: 0.04 kWh/s
+TotalPower: 0.04 kWh
+TotalOutflow: 3300.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:10
+WaterHeight: 81.10 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 17881.00 m^3/s
+GateOpenRate: 30 %
+OutflowRate: 3300.00 m^3/s
+PowerOutput: 0.04 kWh/s
+TotalPower: 0.46 kWh
+TotalOutflow: 36300.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:19
+WaterHeight: 99.68 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 30 %
+OutflowRate: 3300.00 m^3/s
+PowerOutput: 0.04 kWh/s
+TotalPower: 0.88 kWh
+TotalOutflow: 69300.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:29
+WaterHeight: 100.05 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 15947.00 m^3/s
+GateOpenRate: 60 %
+OutflowRate: 6600.00 m^3/s
+PowerOutput: 0.08 kWh/s
+TotalPower: 1.38 kWh
+TotalOutflow: 108900.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:39
+WaterHeight: 113.40 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 60 %
+OutflowRate: 6600.00 m^3/s
+PowerOutput: 0.08 kWh/s
+TotalPower: 2.21 kWh
+TotalOutflow: 174900.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:49
+WaterHeight: 110.80 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 44724.00 m^3/s
+GateOpenRate: 60 %
+OutflowRate: 6600.00 m^3/s
+PowerOutput: 0.08 kWh/s
+TotalPower: 3.04 kWh
+TotalOutflow: 240900.00 m^3
+AlarmCount: 0
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:00:59
+WaterHeight: 151.27 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 18275.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 4.12 kWh
+TotalOutflow: 326700.00 m^3
+AlarmCount: 1
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:09
+WaterHeight: 163.65 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 5.37 kWh
+TotalOutflow: 425700.00 m^3
+AlarmCount: 11
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:19
+WaterHeight: 157.75 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 10337.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 6.62 kWh
+TotalOutflow: 524700.00 m^3
+AlarmCount: 21
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:29
+WaterHeight: 162.18 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 18874.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 7.87 kWh
+TotalOutflow: 623700.00 m^3
+AlarmCount: 31
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:39
+WaterHeight: 175.16 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 19380.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 9.12 kWh
+TotalOutflow: 722700.00 m^3
+AlarmCount: 41
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:49
+WaterHeight: 188.64 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 32841.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 10.37 kWh
+TotalOutflow: 821700.00 m^3
+AlarmCount: 51
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:01:59
+WaterHeight: 215.58 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 34163.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 11.62 kWh
+TotalOutflow: 920700.00 m^3
+AlarmCount: 61
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:02:09
+WaterHeight: 243.84 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 12.87 kWh
+TotalOutflow: 1019700.00 m^3
+AlarmCount: 71
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:02:19
+WaterHeight: 237.94 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 55796.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 14.12 kWh
+TotalOutflow: 1118700.00 m^3
+AlarmCount: 81
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:02:29
+WaterHeight: 287.84 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 13048.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 15.37 kWh
+TotalOutflow: 1217700.00 m^3
+AlarmCount: 91
+ManualOverride: NO
+------------------------------
+[DAM STATUS]
+Time: 00:02:39
+WaterHeight: 294.99 m
+InflowFixed: 4000.00 m^3/s
+InflowVariable: 0.00 m^3/s
+GateOpenRate: 90 %
+OutflowRate: 9900.00 m^3/s
+PowerOutput: 0.12 kWh/s
+TotalPower: 16.62 kWh
+TotalOutflow: 1316700.00 m^3
+AlarmCount: 101
+ManualOverride: NO
+------------------------------
